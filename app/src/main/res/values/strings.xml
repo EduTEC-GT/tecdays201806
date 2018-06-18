@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TecDays</string>
+    <string name="login_error">Hubo un error al iniciar sesión</string>
+</resources>
